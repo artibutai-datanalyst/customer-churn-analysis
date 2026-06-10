@@ -16,9 +16,9 @@
 - Jupyter Notebook
 
 ##  Screenshots
-<img width="553" height="436" alt="Screenshot 2026-06-10 184417" src="https://github.com/user-attachments/assets/b05cebb3-8ea4-4282-a1bd-3306aa14b97f" />
-<img width="1092" height="682" alt="Screenshot 2026-06-10 202733" src="https://github.com/user-attachments/assets/b5244404-b657-4e26-98c0-683d226a435c" />
-<img width="1108" height="552" alt="Screenshot 2026-06-10 202723" src="https://github.com/user-attachments/assets/d7da5237-2489-4918-8dfc-ac55deea5d59" />
-<img width="1090" height="768" alt="Screenshot 2026-06-10 203214" src="https://github.com/user-attachments/assets/8b602010-351b-430d-8f92-20218ea3d132" />
-<img width="1148" height="584" alt="Screenshot 2026-06-10 203309" src="https://github.com/user-attachments/assets/1094b6ee-b0d1-45a5-94f8-e1a5745bce13" />
-<img width="985" height="766" alt="Screenshot 2026-06-10 203421" src="https://github.com/user-attachments/assets/94a130f0-2c01-4973-9f44-7ab5fa7897f9" />
+<img width="875" height="637" alt="Screenshot 2026-06-10 211914" src="https://github.com/user-attachments/assets/9e55b6e8-797d-4717-8409-d099627442b1" />
+<img width="875" height="637" alt="Screenshot 2026-06-10 211914" src="https://github.com/user-attachments/assets/1f5735b6-2367-412e-9ad2-70854d7d0746" />
+<img width="985" height="690" alt="Screenshot 2026-06-10 203421" src="https://github.com/user-attachments/assets/c9422567-6d57-499e-8b1f-eacdef9d4e77" />
+<img width="1090" height="668" alt="Screenshot 2026-06-10 203214" src="https://github.com/user-attachments/assets/1225201e-1e5b-418b-aaca-e35d7f5839d6" />
+<img width="1092" height="586" alt="Screenshot 2026-06-10 202733" src="https://github.com/user-attachments/assets/014b7e29-1790-4663-a944-7394e470aeb1" />
+<img width="1148" height="397" alt="Screenshot 2026-06-10 203309" src="https://github.com/user-attachments/assets/6f701b65-f481-4b59-a4c2-7af453201764" />
