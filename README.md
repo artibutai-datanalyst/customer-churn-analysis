@@ -13,3 +13,5 @@
 - Seaborn
 - Matplotlib
 - Jupyter Notebook
+
+##Visualizations
